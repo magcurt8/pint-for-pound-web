@@ -1,0 +1,13 @@
+{
+  "development": {
+    "use_env_variable": "postgres://czgafgto:RivfUf03bd6rFxt6wl2E0ta19FA0q_1u@stampy.db.elephantsql.com:5432/czgafgto"
+  },
+  "test": {
+    "username": "czgafgto",
+    "password": "RivfUf03bd6rFxt6wl2E0ta19FA0q_1u",
+    "database": "PintforPoundDB",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
